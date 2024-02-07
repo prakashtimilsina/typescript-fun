@@ -14,3 +14,8 @@ function getHero(){
 }
 
 hero = getHero()
+
+let age = 30;
+let isFiction: boolean;
+
+isFiction = true
