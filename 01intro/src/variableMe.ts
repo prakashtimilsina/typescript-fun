@@ -19,3 +19,4 @@ let age = 30;
 let isFiction: boolean;
 
 isFiction = true
+age = 40
