@@ -32,3 +32,5 @@ function sum1(a:number, b:number):number {
 }
 
 console.log(sum1(4,9))
+
+//interface 

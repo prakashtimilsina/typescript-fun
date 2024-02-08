@@ -26,3 +26,4 @@ function sum1(a, b) {
     return a + b;
 }
 console.log(sum1(4, 9));
+//interface 
